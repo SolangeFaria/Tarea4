@@ -1,5 +1,8 @@
 package cuentas;
-
+/**
+* Clase que representa una cuenta bancária 
+* @author Solange Faria Faria
+*/
 public class CCuenta {
 
     /**
